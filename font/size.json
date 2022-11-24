@@ -1,0 +1,13 @@
+{
+  "font": {
+    "size": {
+      "100": { "value": "9px", "comment": "@tokens FontSize\n* @presenter FontSize" },
+      "200": { "value": "12px" },
+      "300": { "value": "14px" },
+      "400": { "value": "16px" },
+      "500": { "value": "20px" },
+      "600": { "value": "24px" },
+      "700": { "value": "32px" }
+    }
+  }
+}

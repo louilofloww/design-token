@@ -1,0 +1,10 @@
+{
+  "font": {
+    "letterSpacing": {
+      "100": { "value": "-0.7px", "comment": "@tokens LetterSpacing\n* @presenter LetterSpacing" },
+      "200": { "value": "-0.4px" },
+      "300": { "value": "-0.2px" },
+      "400": { "value": "0px" }
+    }
+  }
+}

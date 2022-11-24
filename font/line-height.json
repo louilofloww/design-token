@@ -1,0 +1,12 @@
+{
+  "font": {
+    "lineHeight": {
+      "100": { "value": "12px", "comment": "@tokens LineHeight\n* @presenter LineHeight" },
+      "200": { "value": "18px" },
+      "300": { "value": "20px" },
+      "400": { "value": "24px" },
+      "500": { "value": "28px" },
+      "600": { "value": "36px" }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "font": {
+    "family": {
+      "decorative": {
+        "value": "Public Sans",
+        "comment": "@tokens FontFamily\n* @presenter FontFamily"
+      },
+      "base": { "value": "Public Sans" }
+    }
+  }
+}

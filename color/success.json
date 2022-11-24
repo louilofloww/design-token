@@ -1,0 +1,27 @@
+{
+  "color": {
+    "success": {
+      "50": { "value": "#F2FBF6", "comment": "@tokens ColorSuccess\n* @presenter Color" },
+      "100": { "value": "#D9F3E5" },
+      "200": { "value": "#BFEBD3" },
+      "300": { "value": "#99DFB9" },
+      "400": { "value": "#73D49F" },
+      "500": { "value": "#59CC8D" },
+      "600": { "value": "#33C073" },
+      "700": { "value": "#1AB862" },
+      "800": { "value": "#00B050" },
+      "900": { "value": "#00853C  " },
+
+      "50i": { "value": "#0E3638", "comment": "@tokens ColorSuccessInverse\n* @presenter Color" },
+      "100i": { "value": "#0C4C38" },
+      "200i": { "value": "#0B6337" },
+      "300i": { "value": "#097937" },
+      "400i": { "value": "#088F36" },
+      "500i": { "value": "#06A636" },
+      "600i": { "value": "#05BC35" },
+      "700i": { "value": "#03D235" },
+      "800i": { "value": "#02E934" },
+      "900i": { "value": "#00FF34" }
+    }
+  }
+}

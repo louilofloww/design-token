@@ -1,0 +1,20 @@
+{
+  "color": {
+    "background": {
+      "50": { "value": "#FFFFFF", "comment": "@tokens ColorBackground\n* @presenter Color" },
+      "100": { "value": "#F5F6F7" },
+      "200": { "value": "#F0F4F9" },
+      "300": { "value": "#E9EEF4" },
+      "400": { "value": "#DBE2EB" },
+
+      "50i": {
+        "value": "#000000",
+        "comment": "@tokens ColorBackgroundInverse\n* @presenter Color"
+      },
+      "100i": { "value": "#111339" },
+      "200i": { "value": "#282F5D" },
+      "300i": { "value": "#353B61" },
+      "400i": { "value": "#484C68" }
+    }
+  }
+}
