@@ -23,9 +23,7 @@
         "800i": { "value": "#317FF0" },
         "900i": { "value": "#3D8BFC" }
       }
-    }
-  
-    "color": {
+    
       "secondary": {
         "50": { "value": "#F3F4F6", "comment": "@tokens ColorSecondary\n* @presenter Color" },
         "100": { "value": "#ECEFF1" },
@@ -49,9 +47,7 @@
         "800i": { "value": "#929EB1" },
         "900i": { "value": "#9FACBD" }
       }
-    }
-  
-    "color": {
+    
       "success": {
         "50": { "value": "#F2FBF6", "comment": "@tokens ColorSuccess\n* @presenter Color" },
         "100": { "value": "#D9F3E5" },
@@ -75,9 +71,7 @@
         "800i": { "value": "#02E934" },
         "900i": { "value": "#00FF34" }
       }
-    }
-  
-    "color": {
+    
       "danger": {
         "50": { "value": "#FFF2F2", "comment": "@tokens ColorDanger\n* @presenter Color" },
         "100": { "value": "#FFD9D9" },
@@ -101,9 +95,7 @@
         "800i": { "value": "#E34E51" },
         "900i": { "value": "#F95454" }
       }
-    }
-  
-    "color": {
+    
       "warning": {
         "50": { "value": "#FFFBF3", "comment": "@tokens ColorWarning\n* @presenter Color" },
         "100": { "value": "#FEF4D9" },
@@ -127,9 +119,7 @@
         "800i": { "value": "#E3A709" },
         "900i": { "value": "#F9B604 " }
       }
-    }
-  
-    "color": {
+    
       "info": {
         "50": { "value": "#F4FBFF", "comment": "@tokens ColorInfo\n* @presenter Color" },
         "100": { "value": "#DEF3FF" },
@@ -153,9 +143,7 @@
         "800i": { "value": "#20B9EC" },
         "900i": { "value": "#22CAFF" }
       }
-    }
-  
-    "color": {
+    
       "neutral": {
         "50": { "value": "#FFFFFF", "comment": "@tokens ColorNeutral\n* @presenter Color" },
         "100": { "value": "#E3E3E3" },
@@ -179,9 +167,7 @@
         "800i": { "value": "#E3E3E3" },
         "900i": { "value": "#FFFFFF" }
       }
-    }
-  
-    "color": {
+    
       "background": {
         "50": { "value": "#FFFFFF", "comment": "@tokens ColorBackground\n* @presenter Color" },
         "100": { "value": "#F5F6F7" },
