@@ -24,9 +24,7 @@
         "900i": { "value": "#3D8BFC" }
       }
     }
-  }
   
-  {
     "color": {
       "secondary": {
         "50": { "value": "#F3F4F6", "comment": "@tokens ColorSecondary\n* @presenter Color" },
@@ -52,8 +50,7 @@
         "900i": { "value": "#9FACBD" }
       }
     }
-  }
-  {
+  
     "color": {
       "success": {
         "50": { "value": "#F2FBF6", "comment": "@tokens ColorSuccess\n* @presenter Color" },
@@ -79,8 +76,7 @@
         "900i": { "value": "#00FF34" }
       }
     }
-  }
-  {
+  
     "color": {
       "danger": {
         "50": { "value": "#FFF2F2", "comment": "@tokens ColorDanger\n* @presenter Color" },
@@ -106,8 +102,7 @@
         "900i": { "value": "#F95454" }
       }
     }
-  }
-  {
+  
     "color": {
       "warning": {
         "50": { "value": "#FFFBF3", "comment": "@tokens ColorWarning\n* @presenter Color" },
@@ -133,8 +128,7 @@
         "900i": { "value": "#F9B604 " }
       }
     }
-  }
-  {
+  
     "color": {
       "info": {
         "50": { "value": "#F4FBFF", "comment": "@tokens ColorInfo\n* @presenter Color" },
@@ -160,8 +154,7 @@
         "900i": { "value": "#22CAFF" }
       }
     }
-  }
-  {
+  
     "color": {
       "neutral": {
         "50": { "value": "#FFFFFF", "comment": "@tokens ColorNeutral\n* @presenter Color" },
@@ -187,8 +180,7 @@
         "900i": { "value": "#FFFFFF" }
       }
     }
-  }
-  {
+  
     "color": {
       "background": {
         "50": { "value": "#FFFFFF", "comment": "@tokens ColorBackground\n* @presenter Color" },
