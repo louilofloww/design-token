@@ -1,7 +1,7 @@
 {
   "color": {
     "warning": {
-      "50": { "value": "#FFFBF3", "comment": "@tokens ColorWarning\n* @presenter Color" },
+      "50": { "value": "#FFFBF3" },
       "100": { "value": "#FEF4D9" },
       "200": { "value": "#FEEDC0" },
       "300": { "value": "#FDE29B" },
@@ -12,7 +12,7 @@
       "800": { "value": "#F9B604" },
       "900": { "value": "#B47516" },
 
-      "50i": { "value": "#342B31", "comment": "@tokens ColorWarningInverse\n* @presenter Color" },
+      "50i": { "value": "#342B31" },
       "100i": { "value": "#4A3A2C" },
       "200i": { "value": "#604A27" },
       "300i": { "value": "#765922" },

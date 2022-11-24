@@ -1,7 +1,7 @@
 {
   "color": {
     "primary": {
-      "50": { "value": "#F3F8FF", "comment": "@tokens ColorPrimary\n* @presenter Color" },
+      "50": { "value": "#F3F8FF" },
       "100": { "value": "#E7F0FE" },
       "200": { "value": "#CEE2FE" },
       "300": { "value": "#9DC4FD" },
@@ -12,7 +12,7 @@
       "800": { "value": "#0B6CF9" },
       "900": { "value": "#0666F4" },
 
-      "50i": { "value": "#162354", "comment": "@tokens ColorPrimaryInverse\n* @presenter Color" },
+      "50i": { "value": "#162354" },
       "100i": { "value": "#192F68" },
       "200i": { "value": "#1D3A7B" },
       "300i": { "value": "#20468F" },
